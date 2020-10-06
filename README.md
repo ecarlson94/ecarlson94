@@ -6,6 +6,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch copious amounts of television
 
+### Connect with me:
+[<img height="32" width="32" alt="ecarlson94 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[linkedin]: https://www.linkedin.com/in/michael-carlson-41899588
 <!--
 **ecarlson94/ecarlson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

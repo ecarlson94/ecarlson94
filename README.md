@@ -31,6 +31,11 @@
 <img align="left" height="26" width="26" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 [linkedin]: https://www.linkedin.com/in/michael-carlson-41899588
+
+<br />
+<br />
+---
+<img align="left" alt="ecarlson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecarlson94&show_icons=true&hid_border=true" />
 <!--
 **ecarlson94/ecarlson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

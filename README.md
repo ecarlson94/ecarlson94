@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on creating a secure home network with pfSense
 - 🌱 I’m currently learning networking and Azure cloud infrastructure design
-- 💬 Ask me about my home server
+- 💬 Ask me about my home media server
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch copious amounts of television
 

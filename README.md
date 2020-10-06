@@ -38,6 +38,7 @@
 ---
 
 <img align="left" alt="ecarlson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecarlson94&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="ecarlson's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlson94&layout=compact&theme=dark&hide_border=true" />
 <!--
 **ecarlson94/ecarlson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

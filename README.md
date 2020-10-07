@@ -53,7 +53,7 @@
 
 ### My Stats
 <div>
-  <img alt="ecarlson's Github Stats" src="https://github-readme-stats.ecarlson94.vercel.app/api?username=ecarlson94&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
+  <img alt="ecarlson's Github Stats" src="https://github-readme-stats.ecarlson94.vercel.app/api?username=ecarlson94&show_icons=true&hide_border=true&theme=dark&hide_title=true&hide_rank=true" />
   <img alt="ecarlson's Github Stats" src="https://github-readme-stats.ecarlson94.vercel.app/api/top-langs/?username=ecarlson94&layout=compact&theme=dark&hide_border=true&hide_title=true" />
 </div>
 

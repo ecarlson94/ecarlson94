@@ -1,7 +1,7 @@
 # Hi there, I'm Eric - aka [Walawren](https://github.com/Walawren) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecarlson94" alt="ecarlson94" /> </p>
 
-- 🔭 I’m currently working on setting up a unified smart home experience using [Home Assistant](https://github.com/home-assistant) on [Raspberry Pi](https://www.home-assistant.io/installation/raspberrypi)
+- 🔭 I’m currently working on updating my old desk and audio equipment
 - 🌱 I’m currently learning Flutter & Dart
 - 💬 Ask me about my home media server
 - 😄 Pronouns: He/Him

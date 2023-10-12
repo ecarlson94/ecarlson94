@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecarlson94" alt="ecarlson94" /> </p>
 
 - 🔭 I’m currently working on updating my old desk and audio equipment
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning Elixir/Phoenix
 - 💬 Ask me about my home media server
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch copious amounts of television

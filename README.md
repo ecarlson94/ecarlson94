@@ -36,7 +36,7 @@
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://neovim.io/" target="_blank"><img height="40" width="40" alt="vim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>
   <a href="https://code.visualstudio.com" target="_blank"><img height="40" width="40" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-  <a href="https://https://octopus.com" target="_blank"><img height="40" width="40" alt="octopusdeploy" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/octopusdeploy.svg" /></a>
+  <a href="https://octopus.com" target="_blank"><img height="40" width="40" alt="octopusdeploy" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/octopusdeploy.svg" /></a>
   <a href="https://github.com" target="_blank"><img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img height="40" width="40" alt="githubactions" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" /></a>
   <a href="https://www.terraform.io" target="_blank"><img height="40" width="40" alt="terraform" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" /></a>

@@ -1,7 +1,7 @@
 # Hi there, I'm Eric - aka [Walawren](https://github.com/Walawren) 👋
 
 - 🔭 I’m currently working on updating my old desk and audio equipment
-- 🌱 I’m currently learning Elixir/Phoenix
+- 🌱 I’m currently learning Elixir/Phoenix and NixOS
 - 💬 Ask me about my home media server
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch copious amounts of television

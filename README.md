@@ -1,4 +1,4 @@
-# Hi there, I'm Eric - aka [Walawren](https://github.com/Walawren) 👋
+# Hi there, I'm Kiri - aka [Walawren](https://github.com/Walawren) 👋
 
 - 🔭 I’m currently working on updating my old desk and audio equipment
 - 🌱 I’m currently learning Elixir/Phoenix and NixOS

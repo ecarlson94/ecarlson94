@@ -23,9 +23,9 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/297c7c3e-7d3d-434c-a5aa-53c960d5beaf" alt="azure" width="40" height="40"/></a>
   <a href="https://www.terraform.io" target="_blank"><img height="40" width="40" alt="terraform" src="https://github.com/ecarlson94/ecarlson94/assets/6665964/728c949d-0b36-4edc-b1dc-de6a00a35652" /></a>
   <a href="https://www.pulumi.com/" target="_blank"><img height="40" width="40" alt="pulumi" src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/f8857d57-ccb7-44d1-bad4-9b282ff04abf" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/f39d645a-0ad4-43f5-8fdd-5d9d0fc0b6df" alt="linux" width="40" height="40"/></a>
   <a href="https://nixos.org/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/fc9a01b3-8e7f-4592-880d-c10a90109b5b" alt="nixos" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/f8857d57-ccb7-44d1-bad4-9b282ff04abf" alt="docker" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/7ca637ec-1ec7-4f38-a536-b7284ab5da41" alt="bash" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/9f8cdf5b-3056-4716-826c-0f75a0d84e8b" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/ca7860c3-0309-481f-97bc-e1e45e69cdbc" alt="css3" width="40" height="40"/></a>
@@ -42,7 +42,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/6740ddfc-0786-40a6-91c6-84d9de81e69c" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="40" width="40" alt="mssql" src="https://github.com/ecarlson94/ecarlson94/assets/6665964/d2c7ad05-6101-463e-aace-aaac764913f0" /></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/233fa74a-a055-45cb-8cff-97f7cb4d4f18" alt="nginx" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/85c04d09-ce8e-4cac-8068-b7cca4aad202" alt="sass" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="https://github.com/ecarlson94/ecarlson94/assets/6665964/dc0c9668-52e4-47eb-83ce-35cf27fdf4e5" alt="selenium" width="40" height="40"/></a>
   <a href="https://neovim.io/" target="_blank"><img height="40" width="40" alt="vim" src="https://github.com/ecarlson94/ecarlson94/assets/6665964/137c2057-9197-4f82-b147-fdda89dcfdd4" /></a>
   <a href="https://code.visualstudio.com" target="_blank"><img height="40" width="40" alt="vscode" src="https://github.com/ecarlson94/ecarlson94/assets/6665964/48a04887-7173-49c3-bba9-c636fca1c8f0" /></a>
